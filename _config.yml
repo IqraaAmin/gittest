@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Blog site"
+author: "Iqra Amin"
+description: "Digital learnings"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
